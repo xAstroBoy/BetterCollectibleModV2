@@ -1,0 +1,6 @@
+C:\Users\marco\Desktop\Output\TestMod\TestMod.dll
+C:\Users\marco\Desktop\Output\TestMod\TestMod.pdb
+C:\Users\marco\Desktop\BetterCollectableFinder Boneworks\obj\Release\Collectibles Finder v2.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\BetterCollectableFinder Boneworks\obj\Release\Collectibles Finder v2.csproj.CopyComplete
+C:\Users\marco\Desktop\BetterCollectableFinder Boneworks\obj\Release\TestMod.dll
+C:\Users\marco\Desktop\BetterCollectableFinder Boneworks\obj\Release\TestMod.pdb
