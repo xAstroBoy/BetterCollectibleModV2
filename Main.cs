@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography;
-using System;
+﻿using System;
 using Il2CppSystem.Collections.Generic;
 using Il2CppSystem.Threading.Tasks;
 using MelonLoader;
