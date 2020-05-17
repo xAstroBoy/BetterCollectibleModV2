@@ -25,18 +25,23 @@ namespace Collectible_finder_v2
 		public override void OnApplicationStart()
 		{
 			MelonModLogger.Log(": Collectible Finder V2 loaded.");
-			MelonModLogger.Log(": Press [P] to toggle keybinds.");
+			MelonModLogger.Log(": Press [Numpad 1] to toggle keybinds.");
 		}
 
 		public override void OnUpdate()
 		{
-			if (Input.GetKeyDown(KeyCode.P))
+			if (Input.GetKeyDown(KeyCode.Keypad1))
 			{
 				isActive = !isActive;
 				if (isActive)
+				{
 					MelonModLogger.Log(": Keybinds enabled");
+					isAlertShown = false;
+				}
 				else
+				{ 
 					MelonModLogger.Log(": Keybinds disabled");
+				}
 			}
 
 			if (!isActive)
@@ -54,6 +59,8 @@ namespace Collectible_finder_v2
 					MelonModLogger.Log(": Press the letter H to Toggle the line! (hidden by default)");
 					MelonModLogger.Log(": Press the letter * to Increase ItemBalls and Capsule Size!");
 					MelonModLogger.Log(": Press the letter - to Decrease ItemBalls and Capsule Size!");
+					MelonModLogger.Log(": Press the letter D to Show Debug details");
+
 
 					isAlertShown = true;
 				}

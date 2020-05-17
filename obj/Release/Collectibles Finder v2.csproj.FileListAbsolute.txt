@@ -4,3 +4,10 @@ C:\Users\marco\Desktop\BetterCollectableFinder Boneworks\obj\Release\Collectible
 C:\Users\marco\Desktop\BetterCollectableFinder Boneworks\obj\Release\Collectibles Finder v2.csproj.CopyComplete
 C:\Users\marco\Desktop\BetterCollectableFinder Boneworks\obj\Release\TestMod.dll
 C:\Users\marco\Desktop\BetterCollectableFinder Boneworks\obj\Release\TestMod.pdb
+C:\Users\marco\Documents\GitHub\Output\TestMod\TestMod.dll
+C:\Users\marco\Documents\GitHub\Output\TestMod\TestMod.pdb
+C:\Users\marco\Documents\GitHub\BetterCollectibleModV2\obj\Release\Collectibles Finder v2.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\GitHub\BetterCollectibleModV2\Build\BetterCollectiblesv2.dll
+C:\Users\marco\Documents\GitHub\BetterCollectibleModV2\Build\BetterCollectiblesv2.pdb
+C:\Users\marco\Documents\GitHub\BetterCollectibleModV2\obj\Release\BetterCollectiblesv2.dll
+C:\Users\marco\Documents\GitHub\BetterCollectibleModV2\obj\Release\BetterCollectiblesv2.pdb
